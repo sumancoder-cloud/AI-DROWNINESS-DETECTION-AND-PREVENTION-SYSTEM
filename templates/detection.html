@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Drowsiness Detection Live Feed</title>
+    <style>
+        body { background: #ffffff; color: #000000; text-align: center; }
+        h1 { margin-top: 20px; }
+        img { border: 5px solid #444; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Drowsiness Detection Live Feed</h1>
+    <img src="{{ url_for('video_feed') }}" width="640" height="480" alt="Video Feed">
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/WEDEV PROJECT"
+		},
+		{
+			"path": "../../../../../../../xampp/htdocs/phpcourse"
+		},
+		{
+			"path": "../../../Desktop/CASESTUDY"
+		},
+		{
+			"path": "../../../../../../../xampp/htdocs/php"
+		},
+		{
+			"path": "../../../Desktop/python project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEDEV PROJECT"
+	}
+}

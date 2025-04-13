@@ -1,0 +1,42 @@
+import numpy as np
+'''a=np.arange(10,20,2,dtype=np.float64)
+b=np.array([[1,2,3],[4,5,6]])
+print(b,b.shape,sep=',')
+print(a.shape)
+c=np.ones((2,3))
+print(c,c.shape,c.size,len(c))
+d=np.full((2,3),5)
+print(d,d.dtype,d.size,d.itemsize)
+a=[1,2,3]
+b=[4,5,6]
+c=np.add(a,b)
+d=np.subtract(a,b)
+e=np.mod(a,b)
+print(c,d,e)
+print(np.divide(a,b))
+print(np.power(a,b))
+print(np.divide([1,2,0],[2,0,3]))
+a=np.array([1,2,3])
+b=np.array([1,2,4])
+print(a!=b)
+a=np.array([[1,2,3],
+            [4,5,6],
+            [7,8,9]])
+a[0:2,0:2]=[[10,20],[30,40]]
+print(a)
+a=np.array([1,2,3])
+b=np.array([1,2,4])
+c=(a>2)
+print(a[c],a>2)
+a=np.array([1,2,3,4,5,6,7,8,9])
+b=np.array([0,1,4])
+print(a[b])
+a=np.array([[1,2,3],[4,5,6]])
+print(a.shape)
+a=a.T  #transpose
+print(a.shape)
+print(a)'''
+import random
+a=np.array([[1,2,3],[4,5,6],[7,8,9]])
+b=np.array([[2,3,4],[5,6,7],[8,9,10]])
+print(a+2)
