@@ -2,6 +2,19 @@
 
 A real-time drowsiness detection system that uses computer vision and machine learning to detect driver drowsiness and prevent accidents. This system continuously monitors the driver's face and eyes to detect signs of drowsiness and provides immediate alerts to prevent potential accidents.
 
+## 📸 Project Screenshots
+
+<div align="center">
+  <img src="images/detection_interface.png" alt="Detection Interface" width="400"/>
+  <p>Real-time drowsiness detection interface</p>
+  
+  <img src="images/alert_system.png" alt="Alert System" width="400"/>
+  <p>Multiple alert systems in action</p>
+  
+  <img src="images/ear_detection.png" alt="EAR Detection" width="400"/>
+  <p>Eye Aspect Ratio (EAR) detection visualization</p>
+</div>
+
 ## 🚀 Features
 
 - **Real-time Face Detection**: Uses dlib's facial landmark detector to identify the driver's face
@@ -90,6 +103,10 @@ python project.py
 ├── templates/             # Web interface templates
 │   ├── phone.html        # Phone number input page
 │   └── detection.html    # Detection monitoring page
+├── images/               # Project screenshots and diagrams
+│   ├── detection_interface.png
+│   ├── alert_system.png
+│   └── ear_detection.png
 ├── requirements.txt      # Python dependencies
 └── README.md            # Project documentation
 ```
@@ -126,7 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, please open an issue in the GitHub repository or contact the maintainers.
+For support,please contact suman.tati2005@gmail.com
 
 ## 📈 Future Improvements
 
@@ -134,4 +151,4 @@ For support, please open an issue in the GitHub repository or contact the mainta
 - [ ] Cloud-based monitoring
 - [ ] Machine learning model improvements
 - [ ] Additional alert methods
-- [ ] Dashboard for monitoring multiple drivers
+- [ ] Dashboard for monitoring multiple drivers 
