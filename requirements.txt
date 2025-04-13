@@ -1,0 +1,9 @@
+opencv-python==4.8.0 
+dlib==19.24.0 
+numpy==1.24.3 
+pyttsx3==2.90 
+pygame==2.5.0 
+scipy==1.10.1 
+twilio==8.10.0 
+flask==2.3.3 
+python-dotenv==1.0.0 
