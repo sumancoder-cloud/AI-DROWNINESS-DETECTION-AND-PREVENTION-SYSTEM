@@ -5,13 +5,13 @@ A real-time drowsiness detection system that uses computer vision and machine le
 ## 📸 Project Screenshots
 
 <div align="center">
-  <img src="images/detection_interface.png" alt="Detection Interface" width="400"/>
+ 
   <p>Real-time drowsiness detection interface</p>
   
-  <img src="images/alert_system.png" alt="Alert System" width="400"/>
+ 
   <p>Multiple alert systems in action</p>
   
-  <img src="images/ear_detection.png" alt="EAR Detection" width="400"/>
+  
   <p>Eye Aspect Ratio (EAR) detection visualization</p>
 </div>
 
