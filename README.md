@@ -2,18 +2,6 @@
 
 A real-time drowsiness detection system that uses computer vision and machine learning to detect driver drowsiness and prevent accidents. This system continuously monitors the driver's face and eyes to detect signs of drowsiness and provides immediate alerts to prevent potential accidents.
 
-## 📸 Project Screenshots
-
-<div align="center">
- 
-  <p>Real-time drowsiness detection interface</p>
-  
- 
-  <p>Multiple alert systems in action</p>
-  
-  
-  <p>Eye Aspect Ratio (EAR) detection visualization</p>
-</div>
 
 ## 🚀 Features
 
